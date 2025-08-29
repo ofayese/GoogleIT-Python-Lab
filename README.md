@@ -1,6 +1,6 @@
 # Google IT Automation with Python - Practice Lab
 
-A practice repository for the Coursera Google IT Automation with Python Certificate Program.
+My practice repository for the Coursera Google IT Automation with Python Certificate Program.
 
 ## What this is
 
